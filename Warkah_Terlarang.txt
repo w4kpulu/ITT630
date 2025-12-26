@@ -1,0 +1,17 @@
+Background
+
+In the golden era of the Kesultanan Melayu Melaka, the sultans ruled with wisdom and valor. Among them, Hang Tuah, the legendary warrior, was entrusted with the Sultan’s most secret missions.
+
+One day, the Sultan received reports of a traitor trying to leak royal secrets. To safeguard the empire, the Sultan encoded a vital message containing the location of hidden royal treasures and strategic orders. Only Hang Tuah, with his knowledge of secret ciphers, could decode it.
+
+
+
+The Challenge:
+
+You have stumbled upon the ancient digital arkib of the Melaka Sultanate, containing a mysterious encrypted message. The message is stored in a strange code, known only to Hang Tuah himself.
+
+Legend says:
+
+“The secrets of the Sultanate are hidden behind an ancient cipher. Only the wise who understand the ways of Hang Tuah can read it.”
+
+Your task is to decode the message.
